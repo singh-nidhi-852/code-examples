@@ -1,0 +1,12 @@
+Headless wordpress is basically use to store the data only,Can not use it in frontend to show the data. It contains same , wordpress,php,mysql at top and not rendring any content through wordpress and simply use WP to store the data.
+The data can be passed to mobile or web Apps using rest API or GraphQL.
+For Frontend can be used as react JS, Vue JS, Angular , You can use GatsByJS to render the content statically.
+Can use react native to make phone app.
+Can be publish same content to n number of platfiorm like internal site, CRM phone app or any other places.
+Can use component libraries to share code from site to site , site to app and so on...
+
+
+
+
+So As per my understanding , I need to write down an code which will replace all the old image code with your provided new code by using any hook , instead of going on each place and changes , correct?
+Testtt   abhab
